@@ -1,2 +1,2 @@
 use chokka
-create table Github(Gitid int not null,Username varchar(20));
+create table Github(Gitid int not null,Username varchar(20),password varchar(20));
